@@ -1,5 +1,7 @@
 # Machine-Learning-Model1: SDG 10 Machine Learning Project
 
+#Demo link (https://drive.google.com/file/d/1FjhEZVQIx628tZcXnpvIXcsLTrHxiRgk/view?usp=sharing)
+
 This project explores Sustainable Development Goal 10: Reduce Inequality using machine learning. The goal is to analyze global trends in GDP, Gini Index, poverty, and unemployment to identify countries at risk of high inequality and predict future inequality levels.
 
 The project uses a two-step ML approach:
